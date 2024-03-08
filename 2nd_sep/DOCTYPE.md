@@ -11,3 +11,7 @@ The DOCTYPE (Document Type Declaration) in HTML is a special instruction at the 
 Simple Example:
 The DOCTYPE declaration for HTML5 is:
 <!DOCTYPE html>
+It ensures consistent rendering across browsers.
+It enables features specific to the HTML version.
+It's good practice for clean and well-structured code.
+
